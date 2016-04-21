@@ -1,0 +1,1 @@
+This is a project using Sean Lahman's baseball statistics from http://www.seanlahman.com/.  The goal of the project is to find a roster of the players with the best on-base-percentage (OBP) for their salary.  This exercise uses the pandas package to analyze the data.
